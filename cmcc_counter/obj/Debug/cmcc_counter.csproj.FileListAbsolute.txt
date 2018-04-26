@@ -1,0 +1,14 @@
+E:\vs2013_proj\cmcc_counter\cmcc_counter\obj\Debug\cmcc_counter.csprojResolveAssemblyReference.cache
+E:\vs2013_proj\cmcc_counter\cmcc_counter\obj\Debug\cmcc_counter.Form1.resources
+E:\vs2013_proj\cmcc_counter\cmcc_counter\obj\Debug\cmcc_counter.Properties.Resources.resources
+E:\vs2013_proj\cmcc_counter\cmcc_counter\obj\Debug\cmcc_counter.csproj.GenerateResource.Cache
+E:\vs2013_proj\cmcc_counter\cmcc_counter\bin\Debug\cmcc_counter.exe
+E:\vs2013_proj\cmcc_counter\cmcc_counter\bin\Debug\cmcc_counter.pdb
+E:\vs2013_proj\cmcc_counter\cmcc_counter\obj\Debug\cmcc_counter.exe
+E:\vs2013_proj\cmcc_counter\cmcc_counter\obj\Debug\cmcc_counter.pdb
+E:\vs2013_proj\cmcc_counter\cmcc_counter\obj\Debug\cmcc_counter.csproj.ResolveComReference.cache
+E:\vs2013_proj\cmcc_counter\cmcc_counter\bin\Debug\cmcc_counter.exe.manifest
+E:\vs2013_proj\cmcc_counter\cmcc_counter\bin\Debug\cmcc_counter.application
+E:\vs2013_proj\cmcc_counter\cmcc_counter\obj\Debug\cmcc_counter.TrustInfo.xml
+E:\vs2013_proj\cmcc_counter\cmcc_counter\obj\Debug\cmcc_counter.exe.manifest
+E:\vs2013_proj\cmcc_counter\cmcc_counter\obj\Debug\cmcc_counter.application
